@@ -50,7 +50,7 @@ echo "🤖 配置模型系统..."
 
 # ---- 供应商定义 ----
 declare -A PROVIDER_MODELS=(
-    ["nvidia"]="moonshotai/kimi-k2-thinking"
+    ["nvidia"]="minimaxai/minimax-m2.5"
     ["siliconflow"]="Pro/moonshotai/Kimi-K2.5"
     ["openai"]="gpt-4o"
     ["anthropic"]="claude-3-5-sonnet-20241022"
