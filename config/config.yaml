@@ -4,7 +4,7 @@
 
 # 主模型配置
 model:
-  default: "moonshotai/kimi-k2-thinking"
+  default: "minimaxai/minimax-m2.5"
   provider: "nvidia"
   base_url: "https://integrate.api.nvidia.com/v1"
 
